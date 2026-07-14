@@ -9,8 +9,8 @@
     {
       "name": "bubblav",
       "source": {
-        "source": "github",
-        "repo": "bubblav-org/bubblav-claude"
+        "source": "url",
+        "url": "https://github.com/bubblav-org/bubblav-claude.git"
       },
       "description": "Connect Claude Code to your BubblaV AI chatbot — knowledge base search, analytics, content gaps, conversation & lead management, and persona tuning over OAuth.",
       "version": "1.0.0",
