@@ -31,6 +31,13 @@ Once connected, Claude has access to your chatbot's data and configuration:
 - **Handoff scenarios** (Pro+) — define when the bot hands off to a human.
 - **Web scraping** — scrape a URL into your knowledge base.
 
+## Skills included
+
+The plugin ships guided skills (no API key needed — they use the connected MCP tools):
+
+- **`add-chat-widget`** — fetch the ready-to-paste embed snippet and place the chat widget on any site or framework.
+- **`manage-custom-tools`** — create, update, list, delete, and toggle custom webhook tools for your chatbot.
+
 ## How it works
 
 - The plugin declares a single remote MCP server (`type: http`) pointing at `https://www.bubblav.com/mcp`.
