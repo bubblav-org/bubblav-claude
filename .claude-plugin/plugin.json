@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "bubblav",
+  "displayName": "BubblaV",
+  "version": "1.0.0",
+  "description": "Connect Claude Code to your BubblaV AI chatbot. Search your knowledge base, read analytics, find content gaps, manage conversations and leads, and tune your chatbot persona — over OAuth, no API key needed.",
+  "author": {
+    "name": "BubblaV",
+    "email": "support@bubblav.com",
+    "url": "https://www.bubblav.com"
+  },
+  "homepage": "https://www.bubblav.com",
+  "repository": "https://github.com/bubblav-org/bubblav-claude",
+  "license": "MIT",
+  "keywords": ["bubblav", "chatbot", "mcp", "customer-support", "analytics", "knowledge-base", "lead-generation"]
+}
