@@ -1,0 +1,19 @@
+.claude-plugin/marketplace.json
+  s_8ced9c696d2185::t_7c7bda6e84b502 12-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "d62324e0b3dfa7db6551028a5016f7d1c23d11ce",
+  "prompts": {},
+  "sessions": {
+    "s_8ced9c696d2185": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd1f2fef-9e29-4410-9919-ec1354b0b608",
+        "model": "glm-5.2"
+      },
+      "human_author": "Ton Nguyen <tonng86@gmail.com>"
+    }
+  }
+}
