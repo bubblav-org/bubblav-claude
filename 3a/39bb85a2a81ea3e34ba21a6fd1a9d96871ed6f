@@ -1,0 +1,23 @@
+skills/add-chat-widget/SKILL.md
+  s_80364949c7f879::t_1a48a9eb0cb99b 1-95
+skills/manage-custom-tools/SKILL.md
+  s_80364949c7f879::t_697f2d5536909a 1-233
+README.md
+  s_80364949c7f879::t_e93538fd34a78d 34-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "3a39bb85a2a81ea3e34ba21a6fd1a9d96871ed6f",
+  "prompts": {},
+  "sessions": {
+    "s_80364949c7f879": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f5353e62-eec9-4e02-b721-7ed2285d2ac0",
+        "model": "glm-5.2"
+      },
+      "human_author": "Ton Nguyen <tonng86@gmail.com>"
+    }
+  }
+}
