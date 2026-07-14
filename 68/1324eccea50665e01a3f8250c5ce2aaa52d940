@@ -1,0 +1,29 @@
+.claude-plugin/marketplace.json
+  s_8ced9c696d2185::t_71f13d267f16d5 1-24
+.claude-plugin/plugin.json
+  s_8ced9c696d2185::t_e8a7255ef07efe 1-16
+.mcp.json
+  s_8ced9c696d2185::t_acb65ad943ec0e 1-8
+LICENSE
+  s_8ced9c696d2185::t_318d868aecb436 1-21
+README.md
+  s_8ced9c696d2185::t_e01b56f5bd1d1a 1-52
+assets/logo.svg
+  s_8ced9c696d2185::t_684a365b06f948 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "681324eccea50665e01a3f8250c5ce2aaa52d940",
+  "prompts": {},
+  "sessions": {
+    "s_8ced9c696d2185": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd1f2fef-9e29-4410-9919-ec1354b0b608",
+        "model": "glm-5.2"
+      },
+      "human_author": "Ton Nguyen <tonng86@gmail.com>"
+    }
+  }
+}
