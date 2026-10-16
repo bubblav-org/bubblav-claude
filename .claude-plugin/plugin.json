@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "bubblav",
   "displayName": "BubblaV",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Manage your BubblaV AI chatbot from Claude: check performance, find unanswered questions, teach it new knowledge, review conversations and leads, and change its persona and widget. Connects over OAuth; no API key needed.",
   "author": {
     "name": "BubblaV",
@@ -11,6 +11,18 @@
   },
   "homepage": "https://docs.bubblav.com/user-guide/integrations/claude",
   "repository": "https://github.com/bubblav-org/bubblav-claude",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.bubblav.com/user-guide/integrations/claude",
+  "supportUrl": "https://www.bubblav.com/contact",
+  "privacyPolicyUrl": "https://www.bubblav.com/privacy",
+  "termsOfServiceUrl": "https://www.bubblav.com/terms",
   "license": "MIT",
-  "keywords": ["bubblav", "chatbot", "customer-support", "analytics", "knowledge-base", "lead-generation"]
+  "keywords": [
+    "bubblav",
+    "chatbot",
+    "customer-support",
+    "analytics",
+    "knowledge-base",
+    "lead-generation"
+  ]
 }

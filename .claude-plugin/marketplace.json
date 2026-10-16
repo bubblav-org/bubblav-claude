@@ -16,12 +16,18 @@
         "url": "https://github.com/bubblav-org/bubblav-claude.git"
       },
       "description": "Manage your BubblaV AI chatbot from Claude: check performance, find unanswered questions, teach it new knowledge, review conversations and leads, and change its persona and widget.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "integrations",
       "author": {
         "name": "BubblaV"
       },
-      "keywords": ["bubblav", "chatbot", "customer-support", "analytics", "knowledge-base"]
+      "keywords": [
+        "bubblav",
+        "chatbot",
+        "customer-support",
+        "analytics",
+        "knowledge-base"
+      ]
     }
   ]
 }
