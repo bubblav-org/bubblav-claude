@@ -5,6 +5,9 @@
     "name": "BubblaV",
     "email": "support@bubblav.com"
   },
+  "metadata": {
+    "description": "The BubblaV plugin for Claude: manage your BubblaV AI chatbot over OAuth."
+  },
   "plugins": [
     {
       "name": "bubblav",
@@ -12,13 +15,13 @@
         "source": "url",
         "url": "https://github.com/bubblav-org/bubblav-claude.git"
       },
-      "description": "Connect Claude Code to your BubblaV AI chatbot — knowledge base search, analytics, content gaps, conversation & lead management, and persona tuning over OAuth.",
-      "version": "1.0.0",
+      "description": "Manage your BubblaV AI chatbot from Claude: check performance, find unanswered questions, teach it new knowledge, review conversations and leads, and change its persona and widget.",
+      "version": "1.1.0",
       "category": "integrations",
       "author": {
         "name": "BubblaV"
       },
-      "keywords": ["bubblav", "chatbot", "mcp", "customer-support", "analytics"]
+      "keywords": ["bubblav", "chatbot", "customer-support", "analytics", "knowledge-base"]
     }
   ]
 }
