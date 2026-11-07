@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "bubblav",
   "displayName": "BubblaV",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Manage your BubblaV AI chatbot from Claude: check performance, find unanswered questions, teach it new knowledge, review conversations and leads, and change its persona and widget. Connects over OAuth; no API key needed.",
   "author": {
     "name": "BubblaV",
@@ -19,8 +19,13 @@
   "license": "MIT",
   "keywords": [
     "bubblav",
+    "ai-chatbot",
     "chatbot",
+    "live-chat",
     "customer-support",
+    "ai-support",
+    "support-assistant",
+    "helpdesk",
     "analytics",
     "knowledge-base",
     "lead-generation"
